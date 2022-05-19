@@ -16,9 +16,9 @@ public class DndCharacter
     public static int Ability() 
     {
         Random random = new Random();
-        var x =  Enumerable.Range(1,4).Select(x => random.Next(7)).ToList();
-        x.Sort();
-        return x.Take(3).Sum();
+        var diceThrows =  Enumerable.Range(1,4).Select(x => random.Next(1, 7)).ToList();
+        diceThrows.Sort((a, b) => b.CompareTo(a));
+        return diceThrows.Take(3).Sum();
     }
 
     public static DndCharacter Generate()

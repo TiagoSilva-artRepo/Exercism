@@ -5661,11 +5661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\tiago.silva\\Exercism\\csharp\\dnd-character\\DndCharacter.csproj",
+      "projectUniqueName": "C:\\Development\\Practice\\Exercism\\csharp\\dnd-character\\DndCharacter.csproj",
       "projectName": "DndCharacter",
-      "projectPath": "c:\\Users\\tiago.silva\\Exercism\\csharp\\dnd-character\\DndCharacter.csproj",
+      "projectPath": "C:\\Development\\Practice\\Exercism\\csharp\\dnd-character\\DndCharacter.csproj",
       "packagesPath": "C:\\Users\\tiago.silva\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\tiago.silva\\Exercism\\csharp\\dnd-character\\obj\\",
+      "outputPath": "C:\\Development\\Practice\\Exercism\\csharp\\dnd-character\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiago.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

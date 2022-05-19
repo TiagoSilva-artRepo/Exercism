@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B82CgOpuxHqUEMKNm7rATsSHGgbcRM0bRpKL25T9wDiAnsSFy7dOYjWUcW4jFimVeGSZKTIsiy5eZP9Wjnv9Sw==",
+  "dgSpecHash": "+udNshIXEK7AMLTpTJKSSSePHuePxmi0KqdQ/xTaTGc2tCweDUIsyCGVYhrMeT74ybpsiUhzxeXyUQCIZ2Rp8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago.silva\\Exercism\\csharp\\dnd-character\\DndCharacter.csproj",
+  "projectFilePath": "C:\\Development\\Practice\\Exercism\\csharp\\dnd-character\\DndCharacter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago.silva\\.nuget\\packages\\exercism.tests\\0.1.0-beta1\\exercism.tests.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\tiago.silva\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
